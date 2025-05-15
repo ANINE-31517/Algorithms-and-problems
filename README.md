@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,13 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0038-count-and-say) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
