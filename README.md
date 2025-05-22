@@ -7,6 +7,7 @@
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3639-zero-array-transformation-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
