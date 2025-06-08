@@ -63,4 +63,12 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
