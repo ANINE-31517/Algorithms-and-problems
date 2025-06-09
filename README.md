@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
 |  |
 | ------- |
