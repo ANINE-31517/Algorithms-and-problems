@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Math
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
