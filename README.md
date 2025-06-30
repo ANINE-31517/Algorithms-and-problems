@@ -7,6 +7,7 @@
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -17,12 +18,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
 |  |
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -65,6 +68,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Bit Manipulation
 |  |
@@ -93,4 +97,8 @@
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
