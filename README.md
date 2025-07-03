@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
@@ -97,8 +98,17 @@
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
