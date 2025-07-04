@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -96,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
