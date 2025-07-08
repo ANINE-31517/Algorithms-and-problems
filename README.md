@@ -13,6 +13,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3639-zero-array-transformation-i) |
@@ -29,6 +30,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
