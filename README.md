@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0014-longest-common-prefix) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -39,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -92,6 +94,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Binary Search
