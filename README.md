@@ -10,6 +10,7 @@
 | [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -46,6 +47,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0556-next-greater-element-iii](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0556-next-greater-element-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -91,12 +93,14 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Search
 |  |
 | ------- |
