@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0013-roman-to-integer) |
 | [0594-longest-harmonious-subsequence](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -42,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0038-count-and-say) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0318-maximum-product-of-word-lengths) |
@@ -110,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0013-roman-to-integer) |
 | [0384-shuffle-an-array](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0384-shuffle-an-array) |
 | [0556-next-greater-element-iii](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/0556-next-greater-element-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ANINE-31517/Algorithms-and-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
